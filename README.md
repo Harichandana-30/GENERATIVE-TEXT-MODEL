@@ -47,3 +47,7 @@ This project was intended to go beyond theory and solve a real problem: how to e
 Install all dependencies using the following command:
 
 pip install -r requirements.txt
+
+## output
+
+![Image](https://github.com/user-attachments/assets/88f69ca9-ea8a-4dc8-87f1-08465d09b77b)
